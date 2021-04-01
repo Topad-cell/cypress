@@ -1,0 +1,16 @@
+{
+  "name": "cypress_test_ilya",
+  "version": "1.0.0",
+  "main": "login_test.spec.js",
+  "dependencies": {},
+  "devDependencies": {
+    "cypress": "^6.8.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "test:cy": "cypress open"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
